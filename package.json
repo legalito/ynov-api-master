@@ -8,7 +8,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "nodemon": "nodemon -r dotenv/config index.js"
+    "dev": "nodemon -r dotenv/config index.js"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
